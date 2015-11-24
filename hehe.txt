@@ -1,0 +1,5 @@
+raz dwa trzy 
+#include<stdio.h>
+int main(void)
+{
+}
