@@ -1,1 +1,4 @@
 matematyka dyskretna
+relacja
+wariacja
+klasa 
